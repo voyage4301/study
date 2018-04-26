@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#map {
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+  background-color: skyblue;
+  position: relative;
+}
